@@ -1,6 +1,6 @@
 export interface Boards {
-  player: [string, number[][]];
-  computer: [string, number[][]];
+  player: [string, number[][]]
+  computer: [string, number[][]]
 }
 
 export interface ComputerMove {
